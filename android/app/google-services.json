@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271802644297",
+    "firebase_url": "https://hulker-a7a24.firebaseio.com",
+    "project_id": "hulker-a7a24",
+    "storage_bucket": "hulker-a7a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271802644297:android:d72ad74702e7c40d",
+        "android_client_info": {
+          "package_name": "com.hulker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271802644297-9dh7nuo9m2a3vta6ifsh41m6if4re3kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hulker",
+            "certificate_hash": "c31b83cc4efd044f21057d85f5ba834ccab3d463"
+          }
+        },
+        {
+          "client_id": "271802644297-pb56t4b4emem4i8hp2s5n8qjm0516reh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVEiHoB-Vq_ozjNeHqmei-1clHBXxZM_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271802644297-pb56t4b4emem4i8hp2s5n8qjm0516reh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
