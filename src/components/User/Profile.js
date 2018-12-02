@@ -36,7 +36,7 @@ class Profile extends Component {
     }
 
     componentDidMount() {
-        this.props.getMyProfile(this.props.uuid);
+       
     }
 
     render() {
@@ -48,167 +48,10 @@ class Profile extends Component {
         return (
             <ScrollView style={{ backgroundColor: WHITE }}>
 
-                <Image
-                    source={backdrop}
-                    style={{ height: 200, width: '100%' }}
-                />
-                <View style={{ alignSelf: 'center' }}>
-                    <View style={{ flexDirection: 'row', marginTop: -50 }}>
-                        <Thumbnail
-                            source={image}
-                            style={{ width: 100, height: 100, borderRadius: 100 }}
-                        />
-
-                    </View>
-                </View>
-                <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginLeft: 15, marginRight: 15 }}>
-                    <Button style={[styles.editButtonStyle, { backgroundColor: SITE_COLOR }]} small onPress={() => Actions.requestupgrade()}>
-                        <Text style={{ color: WHITE, fontSize: 13, padding: 5, fontFamily: FONT_FAMILY }}>Upgrade</Text>
-                    </Button>
-                    <Button style={styles.editButtonStyle} bordered small onPress={() => Actions.editprofile()}>
-                        <Text style={{ color: SITE_COLOR, fontSize: 13, padding: 5, fontFamily: FONT_FAMILY }}>Edit Profile</Text>
-                    </Button>
-
-                </View>
-
-                <View style={{ marginTop: 5 }}>
-                    <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 22, color }}>{this.props.profile.firstName} {this.props.profile.lastName}</Text>
-                </View>
-
-                <View style={[{ flexDirection: 'row', justifyContent: 'space-around', marginTop: 15, paddingBottom: 15 }]}>
-                    <View>
-                        <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 17 }}>Following</Text>
-                        <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, color: SITE_COLOR }}>800</Text>
-                    </View>
-
-                    <View>
-                        <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, fontSize: 17 }}>Friends</Text>
-                        <Text style={{ textAlign: 'center', fontFamily: FONT_FAMILY, color: SITE_COLOR }}>200</Text>
-                    </View>
-                </View>
-
-                <Dash dashColor={LINE_COLOR} style={{ width: '100%', height: 1 }} />
-
-                <View style={[{ marginTop: 15, paddingBottom: 15, marginLeft: 10 }]}>
-                    <View style={{ marginBottom: 8 }}>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17, color: headingcolor }}>Contact Information</Text>
-
-                    </View>
-
-                    <View style={{ marginBottom: 30 }}>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Email Address</Text>
-                        <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.email}</Text>
-                    </View>
-
-                    <View>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Phone Number</Text>
-                        <Text style={{ fontFamily: FONT_FAMILY }}>+234 [0] {this.props.phone}</Text>
-                    </View>
-                </View>
-
-                <Dash dashColor={LINE_COLOR} style={{ width: '100%', height: 1 }} />
-
-                <View style={[{ marginTop: 15, paddingBottom: 15, marginLeft: 10 }]}>
-                    <View style={{ marginBottom: 8 }}>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17, color: headingcolor }}>Other Information</Text>
-
-                    </View>
-
-                    <View style={{ flexDirection: 'row', marginBottom: 30, marginLeft: 10, marginRight: 30, justifyContent: 'space-between' }}>
-                        <View>
-                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Country</Text>
-                            <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.profile.nationality_origin}</Text>
-                        </View>
-                        <View>
-                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>State</Text>
-                            <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.profile.state}</Text>
-                        </View>
-                    </View>
-
-                    <View style={{ flexDirection: 'row', marginBottom: 30, marginLeft: 10, marginRight: 30, justifyContent: 'space-between' }}>
-                        <View>
-                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>L.G.A</Text>
-                            <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.profile.lga}</Text>
-                        </View>
-                        <View>
-                            <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17 }}>Date of Birth</Text>
-                            <Text style={{ fontFamily: FONT_FAMILY }}>{this.props.dob}</Text>
-                        </View>
-                    </View>
-
-                    <Dash dashColor={LINE_COLOR} style={{ width: '100%', height: 1 }} />
-
-
-                </View>
-
-                <View style={[{ marginTop: 15, paddingBottom: 15, marginLeft: 10 }]}>
-                    <View style={{ marginBottom: 15 }}>
-                        <Text style={{ fontFamily: FONT_FAMILY, fontSize: 17, color: headingcolor }}>Political Office Holders</Text>
-
-                    </View>
-
-                    <View style={{ flexDirection: 'row', marginLeft: 15, marginRight: 15, marginTop: 20, justifyContent: 'space-around' }}>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>President</Text>
-                        </View>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Governor</Text>
-                        </View>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Councilor</Text>
-                        </View>
-
-                    </View>
-
-                    <View style={{ flexDirection: 'row', marginLeft: 15, marginRight: 15, marginTop: 20, justifyContent: 'space-around' }}>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>President</Text>
-                        </View>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Governor</Text>
-                        </View>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Councilor</Text>
-                        </View>
-
-                    </View>
-
-                    <View style={{ flexDirection: 'row', marginLeft: 15, marginRight: 15, marginTop: 20, justifyContent: 'space-around' }}>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>President</Text>
-                        </View>
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Governor</Text>
-                        </View>
-
-                        <View>
-                            <Thumbnail style={styles.thumbnailStyle} source={avatar} />
-                            <Text style={styles.politicalHeadNameStyle}>Marks Webber</Text>
-                            <Text style={styles.politicalTitleStyle}>Governor</Text>
-                        </View>
-
-
-                    </View>
-
-                    <Dash dashColor={LINE_COLOR} style={{ width: '100%', height: 1, marginTop: 15 }} />
-
-                </View>
+                <Text>Login success full</Text>
+                <TouchableOpacity>
+                    <Text>Logout</Text>
+                </TouchableOpacity>
 
             </ScrollView>
         );

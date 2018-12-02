@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/b8c5b3869bee39a7ac6f80700dca0379/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/b8c5b3869bee39a7ac6f80700dca0379/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/b8c5b3869bee39a7ac6f80700dca0379/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

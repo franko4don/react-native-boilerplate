@@ -35,7 +35,7 @@ const cleanUrl = (sentence) => {
 const encode = (value) => {
     let start = "";
     let end = "";
-    let multiplier = 6;
+    let multiplier = 15;
     let alpha = "ABCDEFGHIJKLMNOPQRSTUPWXYZabcdefghijklmanopqrstuvwxyz0123456789";
 
     for (let i = 0; i < multiplier; i++) {
@@ -150,7 +150,9 @@ const hasLikes = (uuid, likes) => {
     return false;
 }
 
+
+
 export {
     filterPost, calculateOpacity, hasLikes,
-    isObjectEmpty, searchFriends
+    isObjectEmpty, searchFriends, encode
 };

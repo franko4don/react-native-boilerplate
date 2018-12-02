@@ -4,15 +4,13 @@ import {
 } from './../actions/Types';
 
 const INITIAL_STATE = {
-    nationality_origin: "Nigeria",
-    nationality_residence: "Nigeria",
+    country: "Nigeria",
     userState: "Anambra",
-    lga: "Anambra East",
-    photo: "",
-    firstName: "",
-    lastName: "",
+    photo: {},
+    phone: "",
+    firstname: "",
+    lastname: "",
     profile: {},
-    userprofile: {}
 
 };
 

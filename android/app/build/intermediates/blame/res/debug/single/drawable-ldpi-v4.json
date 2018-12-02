@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_next.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
+        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    }
+]

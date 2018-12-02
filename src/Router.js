@@ -14,6 +14,8 @@ import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import ForgotPassword from './components/Auth/ForgotPassword';
 import ResetPassword from './components/Auth/ResetPassword';
+import Profile from './components/User/Profile';
+import CreateProfile from './components/User/CreateProfile';
 
 class RouterComponent extends Component {
     constructor(props) {
@@ -38,7 +40,6 @@ class RouterComponent extends Component {
             <Router>
 
                 <Scene key="root" hideNavBar>
-                <Scene key="login" onLeft={() => console.log('hger')} renderLeftButton={this.AppLogo()} component={Login} />
                         
                     <Scene
                         key="auth"
@@ -48,7 +49,18 @@ class RouterComponent extends Component {
                         <Scene key="forgotpassword" onLeft={() => console.log('hger')} renderLeftButton={this.AppLogo()} component={ForgotPassword} />
                         <Scene key="resetpassword" onLeft={() => console.log('hger')} renderLeftButton={this.AppLogo()} component={ResetPassword} />
 
-                         </Scene>
+                    </Scene>
+
+                    <Scene key="profile" component={Profile} />
+                    <Scene 
+                        key="createprofile" 
+                        back="back"
+                        component={CreateProfile} 
+                        hideNavBar={false}
+                        title={'Profile Setup'}
+                        titleStyle={{color: SITE_COLOR}}
+                        renderLeftButton={this.AppLogo()}
+                        />
 
                 </Scene>
 

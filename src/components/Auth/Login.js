@@ -33,7 +33,6 @@ class Login extends Component {
         let data = {
             email: this.props.email,
             password: this.props.password,
-            provider: 'email'
         }
         this.props.loginUser(data);
     }
@@ -64,13 +63,20 @@ class Login extends Component {
         let buttoncolor = this.props.isLoading ? SITE_COLOR + calculateOpacity(60) : SITE_COLOR;
         return (
             <ScrollView style={{ flex: 1, backgroundColor: WHITE }}>
+                
                 <View style={{ alignSelf: 'center', marginBottom: 10, marginTop: 20 }}>
-                    <Text style={{ fontWeight: '500', fontSize: 18, color: '#4F4F4F', fontFamily: FONT_FAMILY }}>User Login</Text>
+                    <Text style={{ fontSize: 18, color: '#4F4F4F' }}>Login / Signup</Text>
                 </View>
+
+                <Image
+                 source={logo}
+                 style={{width: 70, height: 70, marginTop: 20, alignSelf: 'center'}}
+                 
+                />
                 <View style={{ marginTop: 25, alignSelf: 'center' }}>
                     <Text style={{ color: 'red' }}>{this.props.error}</Text>
                 </View>
-                <Content style={{ marginLeft: 15, marginRight: 15, marginTop: 40 }}>
+                <Content style={{ marginLeft: 15, marginRight: 15, marginTop: 20 }}>
                     <MaterialInput
                         value={this.props.email}
                         label={"Email Address"}
@@ -88,11 +94,11 @@ class Login extends Component {
                     <Button
                         disabled={this.props.isLoading} block rounded
                         onPress={() => this.loginUser()}
-                        style={{ backgroundColor: buttoncolor, marginTop: 15 }}>
+                        style={{ backgroundColor: buttoncolor, marginTop: 45, marginBottom: 20 }}>
                         {this.renderButton()}
                     </Button>
 
-                    <TouchableOpacity onPress={() => Actions.forgotpassword()} style={{ marginTop: 20 }}>
+                    {/* <TouchableOpacity onPress={() => Actions.forgotpassword()} style={{ marginTop: 20 }}>
                         <Text style={{ textAlign: 'center' }}>Forgot Password ?</Text>
                     </TouchableOpacity>
 
@@ -101,7 +107,7 @@ class Login extends Component {
                         <TouchableOpacity onPress={() => Actions.register()}>
                             <Text style={{ color: SITE_COLOR }}>Sign Up</Text>
                         </TouchableOpacity>
-                    </View>
+                    </View> */}
 
             
                 </Content>

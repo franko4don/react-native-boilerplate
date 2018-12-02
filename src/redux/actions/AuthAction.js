@@ -2,7 +2,7 @@ import { Actions } from 'react-native-router-flux';
 import axios from 'axios';
 import settings from './../config';
 import { AsyncStorage } from "react-native";
-
+import firebase from 'firebase';
 
 import {
     EMAIL_CHANGED, PASSWORD_CHANGED,
@@ -41,44 +41,32 @@ export const passwordChanged = (text) => {
 };
 
 export const loginUser = (data, from = "login") => {
+    
     return (dispatch) => {
-
-        const { api_url } = settings;
+        const {email, password} = data;
         clearErrors(dispatch);
         dispatch(startLoading());
-        clearMessage(dispatch);
-        console.log(data, "m here");
-        axios.post(api_url + 'login', data)
-            .then(res => {
-                console.log(res.data, "login successful");
+        firebase.auth().signInWithEmailAndPassword(email, password)
+            .then((user)=>{
                 dispatch(stopLoading());
-                let payload = res.data.user;
-                if (data.password) {
-                    payload.password = data.password;
-                }
-
-
-                loginUserSuccess(dispatch, payload, from);
+                loginUserSuccess(dispatch, data);
 
             })
-            .catch(err => {
-                dispatch(stopLoading());
-                if (err.response.status == 404) {
+            .catch(() => {
+                firebase.auth().createUserWithEmailAndPassword(email, password)
+                .then((user) => {
+                    dispatch(stopLoading());
+                    loginUserSuccess(dispatch, data);
+                })
+                .catch(() => {
+                    dispatch(stopLoading());
                     dispatch({
                         type: GET_ERRORS,
-                        payload: err.response.data.Error
+                        payload: 'Authentication Failed'
                     });
-                }
-
-                if (err.response.status == 401) {
-                    dispatch({
-                        type: GET_MESSAGE,
-                        payload: err.response.data.message
-                    });
-                }
-
-                console.log(err.response.data);
+                });
             })
+      
     }
 };
 
@@ -90,19 +78,8 @@ export const initializeUser = () => {
                 console.log(user);
 
                 if (user) {
-                    activateAxios(JSON.parse(user));
-                    dispatch(getMyProfile(JSON.parse(user).uuid));
+                    dispatch(loginUser(user));
 
-                    dispatch({
-                        type: INITIALIZE_USER,
-                        payload: JSON.parse(user)
-                    });
-
-                } else {
-                    Actions.auth({ type: 'reset' })
-                    dispatch({
-                        type: EMPTY_STATE,
-                    });
                 }
 
             })
@@ -321,12 +298,13 @@ const loginUserSuccess = (dispatch, user, from = "login") => {
         type: LOGIN_USER_SUCCESS,
         payload: user
     });
-    if (from != 'login') {
-        Actions.createprofile({ type: 'reset' });
+    Actions.createprofile();
+    // if (from != 'login') {
+    //     Actions.profile({ type: 'reset' });
 
-    } else {
-        Actions.drawer({ type: 'reset' });
-    }
+    // } else {
+    //     Actions.drawer({ type: 'reset' });
+    // }
 
 };
 

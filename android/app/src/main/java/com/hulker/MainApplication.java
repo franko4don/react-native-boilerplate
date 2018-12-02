@@ -3,10 +3,38 @@ package com.hulker;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.RNFetchBlob.RNFetchBlobPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.goldenowl.twittersignin.TwitterSigninPackage;
+import com.horcrux.svg.SvgPackage;
+import com.react.rnspinkit.RNSpinkitPackage;
+
+import com.RNPlayAudio.RNPlayAudioPackage;
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
+import co.apptailor.googlesignin.RNGoogleSigninPackage;
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.goldenowl.twittersignin.TwitterSigninPackage;
+import com.horcrux.svg.SvgPackage;
+import com.react.rnspinkit.RNSpinkitPackage;
+import com.RNPlayAudio.RNPlayAudioPackage;
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
+import co.apptailor.googlesignin.RNGoogleSigninPackage;
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.goldenowl.twittersignin.TwitterSigninPackage;
+import com.horcrux.svg.SvgPackage;
+import com.react.rnspinkit.RNSpinkitPackage;
+import com.RNPlayAudio.RNPlayAudioPackage;
+import com.BV.LinearGradient.LinearGradientPackage;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
+import co.apptailor.googlesignin.RNGoogleSigninPackage;
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
 import com.oblador.vectoricons.VectorIconsPackage;
 import com.horcrux.svg.SvgPackage;
 import com.react.rnspinkit.RNSpinkitPackage;
-import cl.json.RNSharePackage;
 import com.RNPlayAudio.RNPlayAudioPackage;
 import com.BV.LinearGradient.LinearGradientPackage;
 import com.reactnative.ivpusic.imagepicker.PickerPackage;
@@ -33,16 +61,16 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new RNFetchBlobPackage(),
             new VectorIconsPackage(),
+            new TwitterSigninPackage(),
             new SvgPackage(),
             new RNSpinkitPackage(),
-            new RNSharePackage(),
             new RNPlayAudioPackage(),
             new LinearGradientPackage(),
             new PickerPackage()
-            // new RNGoogleSigninPackage(),
-            // new FBSDKPackage(),
-            // new TwitterSigninPackage()
+
+
       );
     }
 

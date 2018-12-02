@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
 MERGED from [:react-native-twitter-signin] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-svg] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-google-signin] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
@@ -13,7 +14,6 @@ MERGED from [:react-native-linear-gradient] /Users/stallion/Desktop/projects/hul
 MERGED from [:react-native-fbsdk] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/44c519a5df3cbbe05917e3e7d044bc9e/AndroidManifest.xml:21:1-31:12
 MERGED from [:react-native-vector-icons] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-share] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-play-audio] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/AndroidManifest.xml:2:1-15:12
 MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/AndroidManifest.xml:2:1-11:12
@@ -55,25 +55,27 @@ MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/stallion/.gradle/ca
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/5ddf9c02fa0d400d52997064b51ff28d/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/4f45041fabe45140910b62ffec26cc3d/AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a047ec0a32fe45e7d61990a3082ef5ea/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
 	package
 		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:2:5-25
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/0158621fa32c81268c75993ff4befa73/AndroidManifest.xml:25:5-67
 MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/0158621fa32c81268c75993ff4befa73/AndroidManifest.xml:25:5-67
 	android:name
@@ -88,8 +90,26 @@ uses-permission#android.permission.CAMERA
 ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:6:5-64
 	android:name
 		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:8:4-80
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:8:21-77
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:9:4-87
+	android:name
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:9:21-84
 application
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
 MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-spinkit] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
@@ -157,43 +177,49 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/stallion/.gradle/cache
 	android:supportsRtl
 		ADDED from [:react-native-spinkit] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:12:7-39
 	android:icon
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:13:7-41
 	android:allowBackup
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:name
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:11:7-38
 activity#com.hulker.MainActivity
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:16:7-26:18
 	android:label
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:18:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:configChanges
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:19:9-79
 	android:name
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:14:9-37
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:18:9-21:25
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:21:9-25:25
 action#android.intent.action.MAIN
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:23:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:24:13-77
+	android:name
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:24:21-75
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:27:7-84
 	android:name
-		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:27:17-81
 uses-sdk
 INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-twitter-signin] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-twitter-signin] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-svg] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
@@ -212,8 +238,6 @@ MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/stallion/.
 MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/44c519a5df3cbbe05917e3e7d044bc9e/AndroidManifest.xml:24:5-26:41
 MERGED from [:react-native-vector-icons] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-share] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-play-audio] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-play-audio] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/AndroidManifest.xml:7:5-9:41
@@ -306,28 +330,42 @@ INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/Andro
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-share] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
-MERGED from [:react-native-share] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-share/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
 provider#android.support.v4.content.FileProvider
-ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-47
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-60
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-37
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-67
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+MERGED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
 	android:resource
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:17-55
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-67
+		ADDED from [:rn-fetch-blob] /Users/stallion/Desktop/projects/hulker/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
 activity#com.yalantis.ucrop.UCropActivity
 ADDED from [:react-native-image-crop-picker] /Users/stallion/Desktop/projects/hulker/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
 	android:theme
@@ -447,9 +485,7 @@ ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/stallio
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/AndroidManifest.xml:24:13-58
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/stallion/Desktop/projects/hulker/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/stallion/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/a047ec0a32fe45e7d61990a3082ef5ea/AndroidManifest.xml:25:9-27:47
 	android:value

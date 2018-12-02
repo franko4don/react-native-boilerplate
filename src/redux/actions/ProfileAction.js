@@ -2,7 +2,7 @@ import { Actions } from 'react-native-router-flux';
 import axios from 'axios';
 import settings from './../config';
 import { AsyncStorage } from "react-native";
-
+import firebase from 'firebase';
 
 import {
     PROFILE_UPDATE, GET_ERRORS,
@@ -87,41 +87,66 @@ export const getUserProfile = (uuid) => {
     }
 };
 
-export const createProfile = (uuid = "", data) => {
+export const createProfile = (data, name, mime = 'image/jpeg') => {
     return (dispatch) => {
-
-        const { api_url } = settings;
-        clearErrors(dispatch);
         dispatch(startLoading());
+        var storageRef = firebase.storage().ref();
+        console.log(name);
+        // Create the file metadata
+        var metadata = {
+        contentType: mime
+        };
 
-        axios.post(api_url + 'profiles', data)
-            .then(res => {
-                // console.log(res.data);
-                dispatch(stopLoading());
-                dispatch({
-                    type: PROFILE_VIEW
-                });
-                Actions.drawer({ type: 'reset' });
-                dispatch(getMyProfile(uuid));
-            })
-            .catch(err => {
-                dispatch(stopLoading());
-                if (err.response.status == 404) {
-                    dispatch({
-                        type: GET_ERRORS,
-                        payload: err.response.data.Error
-                    });
+        // Upload file and metadata to the object 'images/mountains.jpg'
+        var uploadTask = storageRef.child('images/' + name).put(data.photo, metadata);
+
+        // Listen for state changes, errors, and completion of the upload.
+        uploadTask.on(firebase.storage.TaskEvent.STATE_CHANGED, // or 'state_changed'
+            function(snapshot) {
+                // Get task progress, including the number of bytes uploaded and the total number of bytes to be uploaded
+                var progress = (snapshot.bytesTransferred / snapshot.totalBytes) * 100;
+                console.log('Upload is ' + progress + '% done');
+
+                switch (snapshot.state) {
+
+                    case firebase.storage.TaskState.PAUSED: // or 'paused'
+                        console.log('Upload is paused');
+                        break;
+                    case firebase.storage.TaskState.RUNNING: // or 'running'
+                        console.log('Upload is running');
+                        break;
                 }
+            }, function(error) {
 
-                if (err.response.status == 401) {
-                    dispatch({
-                        type: GET_MESSAGE,
-                        payload: err.response.data.message
-                    });
+                dispatch(stopLoading());
+                switch (error.code) {
+                    case 'storage/unauthorized':
+                    // User doesn't have permission to access the object
+                    break;
+
+                    case 'storage/canceled':
+                    // User canceled the upload
+                    break;
+
+                    case 'storage/unknown':
+                    // Unknown error occurred, inspect error.serverResponse
+                    break;
                 }
-
-                console.log(err.response);
-            })
+        }, function() {
+            console.log("Upload completed");
+        // Upload completed successfully, now we can get the download URL
+            uploadTask.snapshot.ref.getDownloadURL().then(function(downloadURL) {
+                clearErrors(dispatch);
+                dispatch(startLoading());
+                data.photo = downloadURL;
+                const {currentUser} = firebase.auth();
+                firebase.database().ref(`/users/${currentUser.uid}/profile`)
+                    .push(data);
+                dispatch(stopLoading());
+                Actions.profile({type: 'reset'});
+                console.log('File available at', downloadURL);
+            });
+        });
     }
 };
 

@@ -1,4 +1,4 @@
-const SITE_COLOR = '#00B0F0';
+const SITE_COLOR = '#53c0b8';
 
 const TWITTER_COLOR = '#1DA1F2';
 

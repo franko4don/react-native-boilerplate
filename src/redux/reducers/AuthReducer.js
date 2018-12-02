@@ -16,18 +16,14 @@ const INITIAL_STATE = {
     auth: false,
     dob: '',
     last_name: '',
-    email: '',
+    email: 'franko4don@gmail.com',
     resetemail: '',
     reset_code: '',
     reset_uuid: '',
-    password: '',
+    password: 'tomcat',
     new_password: '',
     phone: '',
-
-    tosAgreement: false,
-    user: {},
-    token: '',
-    uuid: '',
+    user: null,
     test: false
 };
 
@@ -47,10 +43,10 @@ export default (state = INITIAL_STATE, action) => {
 
             storeUserData(action.payload);
 
-            return { ...state, auth: true, token: action.payload.token, user: action.payload, uuid: action.payload.uuid };
+            return { ...state, auth: true, user: action.payload };
 
         case INITIALIZE_USER:
-            activateAxios(action.payload);
+            // activateAxios(action.payload);
             return { ...state, test: !state.test, auth: true, user: action.payload, token: action.payload.token, uuid: action.payload.uuid };
 
         case LOGOUT_USER:
@@ -74,8 +70,6 @@ export default (state = INITIAL_STATE, action) => {
 
 
 const storeUserData = (payload) => {
-    axios.defaults.headers.common['token'] = payload.token;
-    axios.defaults.headers.common['uuid'] = payload.uuid;
     AsyncStorage.setItem('user', JSON.stringify(payload));
 
 }
