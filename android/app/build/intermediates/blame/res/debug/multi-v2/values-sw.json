@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-sw/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "3223",
-                        "endColumns": "204",
-                        "endOffsets": "3423"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-sw/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/values-sw/values-sw.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-sw/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3223",
+                        "endColumns": "204",
+                        "endOffsets": "3423"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -57,27 +57,10 @@
             ]
         },
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-sw/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "29",
-                        "startColumns": "4",
-                        "startOffsets": "3223",
-                        "endColumns": "204",
-                        "endOffsets": "3423"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-sw/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -94,7 +77,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/values-sw/values-sw.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-sw/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3223",
+                        "endColumns": "204",
+                        "endOffsets": "3423"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

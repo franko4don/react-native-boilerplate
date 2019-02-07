@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import { Container, Header, Body, Content, Input, ListItem, Item, CheckBox, DatePicker, Text, Button, Label } from 'native-base';
-import { Image, View, TouchableOpacity, ScrollView, NativeModules } from 'react-native';
+import { Container, Header, Body, Content, Text, Button, Label } from 'native-base';
+import { Image, View, TouchableOpacity, ScrollView} from 'react-native';
 import moment from 'moment';
 import axios from 'axios';
 import { Actions } from 'react-native-router-flux';
@@ -10,11 +10,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { registerUpdate, registerUser } from './../../redux/actions';
 import { Spinner, MaterialInput, AnimatedSpinner } from './../Reusables';
 import { calculateOpacity } from './../../Helper';
-import {
-    logo, SITE_COLOR, FACEBOOK_COLOR,
-    TWITTER_COLOR, GOOGLE_COLOR, WHITE,
-    FONT_FAMILY
-} from './../../style';
+import { SITE_COLOR,WHITE, FONT_FAMILY} from './../../style';
 
 
 class Register extends Component {
@@ -96,6 +92,13 @@ class Register extends Component {
                         onChangeText={value => { this.props.registerUpdate({ prop: 'phone', value: value }) }}
                     />
 
+                    <Button
+                        disabled={this.props.isLoading} block rounded
+                        onPress={() => alert('Hello')}
+                        style={{ backgroundColor: buttoncolor, marginTop: 45, marginBottom: 20 }}>
+                        {this.renderButton()}
+                    </Button>
+
                     
                 </Content>
             </ScrollView>
@@ -125,12 +128,12 @@ const styles = {
     }
 }
 const mapStateToProps = (state) => {
-    const { auth, email, dob, password, phone, tosAgreement } = state.auth;
+    const { } = state.auth;
     const { isLoading } = state.loading;
     const { error } = state.errors;
 
-    return { auth, email, dob, password, phone, tosAgreement, isLoading, error };
+    return {isLoading, error };
 };
 
-export default connect(mapStateToProps, { registerUpdate, registerUser })(Register);
+export default connect(mapStateToProps, { registerUpdate})(Register);
 

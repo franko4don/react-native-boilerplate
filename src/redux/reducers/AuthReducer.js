@@ -14,17 +14,9 @@ import { Actions } from 'react-native-router-flux';
 
 const INITIAL_STATE = {
     auth: false,
-    dob: '',
-    last_name: '',
-    email: 'franko4don@gmail.com',
-    resetemail: '',
-    reset_code: '',
-    reset_uuid: '',
-    password: 'tomcat',
-    new_password: '',
-    phone: '',
+    email: '',
+    password: '',
     user: null,
-    test: false
 };
 
 export default (state = INITIAL_STATE, action) => {
@@ -32,7 +24,6 @@ export default (state = INITIAL_STATE, action) => {
 
         case REGISTER_UPDATE:
             // action.payload == {prop: 'name', value: 'jane'}
-
             return { ...state, [action.payload.prop]: action.payload.value };
 
         case LOGIN_UPDATE:
@@ -45,23 +36,12 @@ export default (state = INITIAL_STATE, action) => {
 
             return { ...state, auth: true, user: action.payload };
 
-        case INITIALIZE_USER:
-            // activateAxios(action.payload);
-            return { ...state, test: !state.test, auth: true, user: action.payload, token: action.payload.token, uuid: action.payload.uuid };
-
         case LOGOUT_USER:
             deleteUserData();
             return { ...state, auth: false, user: action.payload };
 
         case LOADING:
             return { ...state, loading: action.payload };
-
-        case RESET_UUID:
-            return { ...state, reset_uuid: action.payload };
-
-        case EMPTY_STATE:
-
-            return { ...state, test: !state.test };
 
         default:
             return state;

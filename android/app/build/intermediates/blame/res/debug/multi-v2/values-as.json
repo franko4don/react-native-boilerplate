@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/values-as/values-as.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-as/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-as/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-as/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-as/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -40,10 +40,10 @@
             ]
         },
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-as/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-as/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -60,7 +60,7 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-as/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-as/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

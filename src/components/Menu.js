@@ -4,11 +4,10 @@ import { Actions } from 'react-native-router-flux';
 import { connect } from 'react-redux';
 import { AsyncStorage } from "react-native";
 import { Content, List, ListItem, Thumbnail } from 'native-base';
-import { logoutUser, initializeUser, getMyProfile } from './../redux/actions';
-import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { logoutUser, } from './../redux/actions';
 import FontAwesomeIcon from 'react-native-vector-icons/FontAwesome';
 import { Text } from './../components/Reusables';
-import { logo, avatar, backdrop, SITE_COLOR, FACEBOOK_COLOR, FONT_FAMILY, TWITTER_COLOR, GOOGLE_COLOR, WHITE } from './../style';
+import { logo, avatar, backdrop, SITE_COLOR, WHITE } from './../style';
 
 class Menu extends Component {
     constructor() {
@@ -17,15 +16,6 @@ class Menu extends Component {
             theme: false
         }
     }
-
-
-    componentWillMount() {
-        this.props.getMyProfile(this.props.user.uuid);
-    }
-
-    // componentWillReceiveProps(nextProps) {
-    //     nextProps.getMyProfile(nextProps.user.uuid);
-    // }
 
     renderAvatar() {
 
@@ -91,30 +81,6 @@ class Menu extends Component {
 
                             </ListItem>
 
-                            <ListItem onPress={() => Actions.profile()} style={styles.listItemStyle}>
-                                <View style={styles.listItemViewStyle}>
-                                    <FontAwesomeIcon name="user-circle" size={22} />
-                                    <Text style={[styles.listItemTextStyle]}>Profile</Text>
-                                </View>
-
-                            </ListItem>
-
-                            <ListItem onPress={() => Actions.settings()} style={styles.listItemStyle}>
-                                <View style={styles.listItemViewStyle}>
-                                    <FontAwesomeIcon name="gear" size={22} />
-                                    <Text style={[styles.listItemTextStyle]}>Settings</Text>
-                                </View>
-
-                            </ListItem>
-
-                            <ListItem onPress={() => Actions.faq()} style={styles.listItemStyle}>
-                                <View style={styles.listItemViewStyle}>
-                                    <FontAwesomeIcon name="user-circle" size={22} />
-                                    <Text style={[styles.listItemTextStyle]}>FAQs</Text>
-                                </View>
-
-                            </ListItem>
-
                             {this.renderLogout()}
 
                         </List>
@@ -163,8 +129,8 @@ const mapStateToProps = (state) => {
 
     const { auth, user } = state.auth;
     const { profile } = state.profile;
-    // console.log(profile);
+
     return { auth, user, profile }
 };
 
-export default connect(mapStateToProps, { logoutUser, initializeUser, getMyProfile })(Menu); 
+export default connect(mapStateToProps, { logoutUser })(Menu); 

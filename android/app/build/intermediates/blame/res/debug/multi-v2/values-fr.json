@@ -1,44 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/9f803b9096885de05cf758372ba926f6/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,218,378,529,642,730,817,897,987,1084,1199,1313,1408,1503,1615,1734,1817,1901,2092,2186,2296,2418,2530",
-                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
-                        "endOffsets": "213,373,524,637,725,812,892,982,1079,1194,1308,1403,1498,1610,1729,1812,1896,2087,2181,2291,2413,2525,2691"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2111,2274,2434,2585,2698,2786,2873,2953,3043,3140,3255,3369,3464,3559,3671,3790,3873,3957,4148,4242,4352,4474,4586",
-                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
-                        "endOffsets": "2269,2429,2580,2693,2781,2868,2948,3038,3135,3250,3364,3459,3554,3666,3785,3868,3952,4143,4237,4347,4469,4581,4747"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,124,182",
-                        "endColumns": "68,57,52",
-                        "endOffsets": "119,177,230"
-                    },
-                    "to": {
-                        "startLines": "65,66,67",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7902,7971,8029",
-                        "endColumns": "68,57,52",
-                        "endOffsets": "7966,8024,8077"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/values-fr/values-fr.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-fr/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,182",
+                        "endColumns": "68,57,52",
+                        "endOffsets": "119,177,230"
+                    },
+                    "to": {
+                        "startLines": "65,66,67",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7902,7971,8029",
+                        "endColumns": "68,57,52",
+                        "endOffsets": "7966,8024,8077"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-fr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -72,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-fr/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,218,378,529,642,730,817,897,987,1084,1199,1313,1408,1503,1615,1734,1817,1901,2092,2186,2296,2418,2530",
+                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
+                        "endOffsets": "213,373,524,637,725,812,892,982,1079,1194,1308,1403,1498,1610,1729,1812,1896,2087,2181,2291,2413,2525,2691"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2111,2274,2434,2585,2698,2786,2873,2953,3043,3140,3255,3369,3464,3559,3671,3790,3873,3957,4148,4242,4352,4474,4586",
+                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
+                        "endOffsets": "2269,2429,2580,2693,2781,2868,2948,3038,3135,3250,3364,3459,3554,3666,3785,3868,3952,4143,4237,4347,4469,4581,4747"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-fr/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -89,7 +89,7 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/0158621fa32c81268c75993ff4befa73/res/values-fr/values-fr.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -108,44 +108,10 @@
             ]
         },
         {
-            "outputFile": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
+            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/9f803b9096885de05cf758372ba926f6/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,218,378,529,642,730,817,897,987,1084,1199,1313,1408,1503,1615,1734,1817,1901,2092,2186,2296,2418,2530",
-                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
-                        "endOffsets": "213,373,524,637,725,812,892,982,1079,1194,1308,1403,1498,1610,1729,1812,1896,2087,2181,2291,2413,2525,2691"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2111,2274,2434,2585,2698,2786,2873,2953,3043,3140,3255,3369,3464,3559,3671,3790,3873,3957,4148,4242,4352,4474,4586",
-                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
-                        "endOffsets": "2269,2429,2580,2693,2781,2868,2948,3038,3135,3250,3364,3459,3554,3666,3785,3868,3952,4143,4237,4347,4469,4581,4747"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,124,182",
-                        "endColumns": "68,57,52",
-                        "endOffsets": "119,177,230"
-                    },
-                    "to": {
-                        "startLines": "65,66,67",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7902,7971,8029",
-                        "endColumns": "68,57,52",
-                        "endOffsets": "7966,8024,8077"
-                    }
-                },
-                {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/values-fr/values-fr.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -162,7 +128,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/f3c6e2135c5f4197d4a2f1998ce99cc3/res/values-fr/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,124,182",
+                        "endColumns": "68,57,52",
+                        "endOffsets": "119,177,230"
+                    },
+                    "to": {
+                        "startLines": "65,66,67",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7902,7971,8029",
+                        "endColumns": "68,57,52",
+                        "endOffsets": "7966,8024,8077"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/res/values-fr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -179,7 +162,24 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/5ddabfbf222fac8a8fcc322df6f80ac5/res/values-fr/values.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,218,378,529,642,730,817,897,987,1084,1199,1313,1408,1503,1615,1734,1817,1901,2092,2186,2296,2418,2530",
+                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
+                        "endOffsets": "213,373,524,637,725,812,892,982,1079,1194,1308,1403,1498,1610,1729,1812,1896,2087,2181,2291,2413,2525,2691"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2111,2274,2434,2585,2698,2786,2873,2953,3043,3140,3255,3369,3464,3559,3671,3790,3873,3957,4148,4242,4352,4474,4586",
+                        "endColumns": "162,159,150,112,87,86,79,89,96,114,113,94,94,111,118,82,83,190,93,109,121,111,165",
+                        "endOffsets": "2269,2429,2580,2693,2781,2868,2948,3038,3135,3250,3364,3459,3554,3666,3785,3868,3952,4143,4237,4347,4469,4581,4747"
+                    }
+                },
+                {
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/res/values-fr/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -196,7 +196,7 @@
                     }
                 },
                 {
-                    "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/0158621fa32c81268c75993ff4befa73/res/values-fr/values-fr.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

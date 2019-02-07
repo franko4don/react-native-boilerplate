@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

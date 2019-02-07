@@ -1,82 +1,82 @@
 [
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/anim/ucrop_loader_circle_scale.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/tooltip_exit.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/anim/ucrop_loader_circle_path.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_slide_up.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_slide_down.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_slide_in_top.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/anim/ucrop_loader_circle_scale.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_popup_enter.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_fade_in.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/0a41e0eb560ccebb03714931368d298d/res/anim/ucrop_loader_circle_path.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_slide_up.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/tooltip_enter.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_fade_out.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_fade_in.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_push_up_out.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_push_up_in.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_fade_out.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/9826acbc97170c22a33a2d5293d5cc56/res/anim/catalyst_fade_in.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
 ]

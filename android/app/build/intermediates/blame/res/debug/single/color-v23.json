@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_default.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/stallion/Desktop/projects/hulker/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/stallion/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3af371bc592ee157640b8955c55590e9/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/color-v23/abc_tint_default.xml"
     }
 ]
