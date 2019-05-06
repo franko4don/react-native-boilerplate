@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
-            "map": [
-                {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/values-zh/values-zh.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,109,163",
-                        "endColumns": "53,53,46",
-                        "endOffsets": "104,158,205"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/res/values-zh/values-zh.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/137fd862d370a83d1e0ff54243fe6083/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

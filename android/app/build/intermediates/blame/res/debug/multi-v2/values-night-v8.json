@@ -4,22 +4,7 @@
             "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-night-v8/values-night-v8.xml",
-            "map": [
-                {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-night-v8/values-night-v8.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

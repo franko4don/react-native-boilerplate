@@ -4,57 +4,55 @@ ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/a
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-47:12
-MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-28:12
-MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:1-30:12
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:21:1-31:12
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:2:1-15:12
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:21:1-37:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:17:1-39:12
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:18:1-35:12
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:2:1-12:12
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:2:1-10:12
-MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:21:1-31:12
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:21:1-35:12
-MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:21:1-53:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:17:1-30:12
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-47:12
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-30:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/2cce22019524df7ea0478be680cc37a6/AndroidManifest.xml:21:1-31:12
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/42c080dadeaeca9c61107aa2822980cb/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/137fd862d370a83d1e0ff54243fe6083/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/467e7384739674616d4bd86ab9d466da/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f274667a8a03884b07a622a316305874/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:17:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:18:1-35:12
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/a5651cc23f865b0554ae1991c3621597/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.2.0.aar/9ec1ba5a7b46186c4f80dadd488b2987/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/b01c6d4564d35f57271eee5484623d69/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/29c4ba51d5342f885492e82b9ff00199/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/b135c71da7de904fb14aadae70b47e4c/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0557632cb879169e05222da54d331a47/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1a125cba348db8fd5e967ae3252d9cdd/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/aede8ca354ad66754d5ce777fada9bb8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86f9a9a1fcda7bd6df9e518313c7567f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9c543e69ce878e95d8d2745e198d66ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cd17144e88aac06e6febfedb1af05f50/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7542fbb82dbb868a63a9f3e4d8d1d21f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c98278a774cefd16a5a2301ce76d00/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/589df7b7261bfeecb19bfd513e6a4197/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/62159b214eec701c6a81cfa7f9ccb93a/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:17:1-30:12
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12
@@ -74,16 +72,14 @@ INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/androi
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-67
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:25:5-67
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:25:5-67
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:25:5-67
 	android:name
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.CAMERA
@@ -96,10 +92,10 @@ ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/a
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:8:4-80
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:5-81
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:5-81
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
 	android:name
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:8:21-77
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
@@ -108,74 +104,72 @@ ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/a
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:9:21-84
 application
 ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:35:5-45:19
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-26:19
-MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
-MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
-MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
-MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:28:5-35:19
-MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:28:5-35:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:22:5-37:19
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:27:5-33:19
-MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:28:5-33:19
-MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:28:5-51:19
-MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:28:5-51:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /private/var/root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/533c58b7c75b4efe55bda16d7e149305/AndroidManifest.xml:2:3-17
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:24:5-28:19
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:5-45:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/2cce22019524df7ea0478be680cc37a6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/2cce22019524df7ea0478be680cc37a6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/42c080dadeaeca9c61107aa2822980cb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/42c080dadeaeca9c61107aa2822980cb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/467e7384739674616d4bd86ab9d466da/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/467e7384739674616d4bd86ab9d466da/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f274667a8a03884b07a622a316305874/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f274667a8a03884b07a622a316305874/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:27:5-33:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/b01c6d4564d35f57271eee5484623d69/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/b01c6d4564d35f57271eee5484623d69/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/29c4ba51d5342f885492e82b9ff00199/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/29c4ba51d5342f885492e82b9ff00199/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/b135c71da7de904fb14aadae70b47e4c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/b135c71da7de904fb14aadae70b47e4c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/aede8ca354ad66754d5ce777fada9bb8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/aede8ca354ad66754d5ce777fada9bb8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/589df7b7261bfeecb19bfd513e6a4197/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/589df7b7261bfeecb19bfd513e6a4197/AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-35
+		ADDED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-35
 	android:label
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:12:7-39
 	android:icon
@@ -218,110 +212,108 @@ uses-sdk
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/7caccfa556d041477a2594aabe9496b5/AndroidManifest.xml:24:5-26:41
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3f3d3e25efc8e2ea75349c2a935c1900/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/f2727260f6dcbb1b7b5d00f3c29f3564/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/ed0efbe410f95e748f8623ce7e749a8f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/8f1a88bda1a43ca0f3b9bac08126238b/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:21:5-23:78
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:20:5-44
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
-MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:23:5-44
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
-MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/6260e125911ac5949ac735874384e696/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf0f331084d04602ad4fb0b47cc509d/AndroidManifest.xml:6:5-8:41
-MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/22e35f4aeb2a9de5c4a7919c66e80d83/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/c79547c0831d3b6754fdb889868c4f8d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/49403978a7c06db1011e3f9fbc64d26d/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0854247ce8ba2dd655be0d8f169b3ffb/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/138f670d9fb33b241f7558f95922e721/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/939cca9f352f97e9591a6a588567cf9b/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:21:5-23:58
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/bf9dbd0ac45b266b0abe600f71c49c53/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/62a6e48ab5a49b97ddb9b7f680f48b87/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/636ae5f265421f3f512dd8df0128a58c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cf419f4c6b6383da727f33cd8d135839/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/82d7b8ee9228cf93df7853eb2346a10b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/716483745f5f903ad47cf25f156e17f2/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/be017a1dc3425a2122fafed4fb5db2ce/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/936b610a6b10ec4af2e2a2c0d54d460e/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:20:5-22:41
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-twitter-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-twitter-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-spinkit/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/2cce22019524df7ea0478be680cc37a6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/2cce22019524df7ea0478be680cc37a6/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-play-audio] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-play-audio/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/42c080dadeaeca9c61107aa2822980cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/42c080dadeaeca9c61107aa2822980cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/137fd862d370a83d1e0ff54243fe6083/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /private/var/root/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/137fd862d370a83d1e0ff54243fe6083/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/467e7384739674616d4bd86ab9d466da/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/467e7384739674616d4bd86ab9d466da/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f274667a8a03884b07a622a316305874/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/f274667a8a03884b07a622a316305874/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:23:5-44
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/a5651cc23f865b0554ae1991c3621597/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/a5651cc23f865b0554ae1991c3621597/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.2.0.aar/9ec1ba5a7b46186c4f80dadd488b2987/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.2.0.aar/9ec1ba5a7b46186c4f80dadd488b2987/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/b01c6d4564d35f57271eee5484623d69/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/b01c6d4564d35f57271eee5484623d69/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/29c4ba51d5342f885492e82b9ff00199/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/29c4ba51d5342f885492e82b9ff00199/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/b135c71da7de904fb14aadae70b47e4c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/b135c71da7de904fb14aadae70b47e4c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0557632cb879169e05222da54d331a47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/0557632cb879169e05222da54d331a47/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1a125cba348db8fd5e967ae3252d9cdd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/1a125cba348db8fd5e967ae3252d9cdd/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/aede8ca354ad66754d5ce777fada9bb8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/aede8ca354ad66754d5ce777fada9bb8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86f9a9a1fcda7bd6df9e518313c7567f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86f9a9a1fcda7bd6df9e518313c7567f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9c543e69ce878e95d8d2745e198d66ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9c543e69ce878e95d8d2745e198d66ac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cd17144e88aac06e6febfedb1af05f50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/cd17144e88aac06e6febfedb1af05f50/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7542fbb82dbb868a63a9f3e4d8d1d21f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/7542fbb82dbb868a63a9f3e4d8d1d21f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c98278a774cefd16a5a2301ce76d00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72c98278a774cefd16a5a2301ce76d00/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/589df7b7261bfeecb19bfd513e6a4197/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/589df7b7261bfeecb19bfd513e6a4197/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/62159b214eec701c6a81cfa7f9ccb93a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/62159b214eec701c6a81cfa7f9ccb93a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:20:5-22:41
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
@@ -331,164 +323,162 @@ INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/androi
 		ADDED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
 uses-permission#com.android.vending.CHECK_LICENSE
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-73
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-70
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-70
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-68
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-68
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:22-65
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-79
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-79
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:22-76
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:5-76
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:5-76
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:22-73
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:22-73
 provider#android.support.v4.content.FileProvider
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:36:9-44:20
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-21:20
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:9-44:20
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
 	android:grantUriPermissions
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:40:13-47
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-47
 	android:authorities
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:38:13-60
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-60
 	android:exported
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:39:13-37
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:37:13-67
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:41:13-43:58
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
-MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:13-20:58
+ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-43:58
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+MERGED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
 	android:resource
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:43:17-55
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:17-55
 	android:name
-		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:42:17-67
+		ADDED from [:rn-fetch-blob] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-25:72
+ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:13-69
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/mac/Desktop/projects/mobile/react-native-boilerplate/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60
 activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:29:9-32:66
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:29:9-32:66
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:31:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:30:13-57
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:33:19-68
 activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:34:9-67
+ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:34:9-67
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/81a4049e9a83245a8032f0c4a7f5366f/AndroidManifest.xml:34:19-64
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/247d268955b6b34822bbd02a8ff1b4e4/AndroidManifest.xml:34:19-64
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ed02550e7f84e50ee44f23ea256a39/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4877439593e05120527fe979f0c0ae12/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/58daca040fca430ed306fb0e5d5580a3/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/a23ad906d81766554c0fa041677a949c/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/eed73464c4952e760beb728580902b19/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/6981cad194b336da3d11cd1c1d23c334/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/7612e79fe310d522287f4496fbfe6291/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1f208532492dc67f8f1c7e8cf1d10045/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/05047e4d38bfdb2391d80e425c01a4cf/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f5aad45ecc738ba447a63b467a41fb8a/AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/581e080466dbd14f8c800b04223a2422/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/b0752e5673485e0286428d53e7877690/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b1ebbc235fdac97cf59c4a3e6b6c9520/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/ace6a3a62546f62ab3c8464c8ae17eda/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/09b964c3408a5c70b7a4367d1ff478f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/53bf0b880a19d7b9b362d5cacac4523d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/fe8f67fff68eaf447706cb7dd05cceb4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ff98b431ce4ee7d14a55e5617a9ff691/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9b420877ea54ed81c0401f6f89d8eaf2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/061c72777165aed87b203f5edf7a09f8/AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2ec46cb22bec57d678de6eaaa9c585dc/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/2238b9d67277f82a1c3e52119cfeda0e/AndroidManifest.xml:34:13-89
 activity#com.twitter.sdk.android.core.identity.OAuthActivity
-ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:28:9-32:40
+ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:28:9-32:40
 	android:excludeFromRecents
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:31:13-46
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:31:13-46
 	android:exported
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:32:13-37
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:30:13-59
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:30:13-59
 	android:name
-		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/AndroidManifest.xml:29:13-79
+		ADDED from [com.twitter.sdk.android:twitter-core:3.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/AndroidManifest.xml:29:13-79
 provider#com.facebook.marketing.internal.MarketingInitProvider
-ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:29:9-32:40
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:29:9-32:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:31:13-73
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:31:13-73
 	android:exported
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:32:13-37
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/a001af9f3d03e9f841c0dff3dacebfb9/AndroidManifest.xml:30:13-81
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/63a4240bd5401e2c3511056521fa376c/AndroidManifest.xml:30:13-81
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:40:13-70
 receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
-ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:44:9-50:20
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:44:9-50:20
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:46:13-37
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:46:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:45:13-86
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:45:13-86
 intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:47:13-49:29
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:47:13-49:29
 action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
-ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:48:17-95
+ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:48:17-95
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/c6e55b961f3d863fa4254ec09bff4884/AndroidManifest.xml:48:25-92
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/9bea3f138e955a69f1a5d49435771381/AndroidManifest.xml:48:25-92
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/73aa7a12cd75ff5465d757dd4e87d2a7/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/a0aa6dfbdb910f3eee75ae3ed33de72e/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/0589582125668cfae33d16fe5bcaa2a3/AndroidManifest.xml:24:13-58
-uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/a7a6e7f01668d0082f66a5a3bea167fa/AndroidManifest.xml:24:13-58
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/3f01cb4da86a5176f1d3b31388562d75/AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/64d0c3c213359f1ce1fda65e3868cd70/AndroidManifest.xml:26:13-58

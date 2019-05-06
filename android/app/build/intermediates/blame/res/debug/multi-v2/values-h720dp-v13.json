@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
-            "map": [
-                {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-h720dp-v13/values-h720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

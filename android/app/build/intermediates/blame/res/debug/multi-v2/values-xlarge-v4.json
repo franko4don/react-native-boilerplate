@@ -4,22 +4,7 @@
             "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-xlarge-v4/values-xlarge-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,126,197,267,337,405",
-                        "endColumns": "70,70,69,69,67,67",
-                        "endOffsets": "121,192,262,332,400,468"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml",
-            "map": [
-                {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ac2a3e0645c50bbf43fb97bcb647b764/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/166e165f23ab0199f8cca5b51e1e3d7f/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

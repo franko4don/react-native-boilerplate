@@ -4,22 +4,7 @@
             "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "54",
-                        "endOffsets": "105"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/mac/Desktop/projects/mobile/react-native-boilerplate/android/app/build/intermediates/res/merged/debug/values-xxhdpi-v4/values-xxhdpi-v4.xml",
-            "map": [
-                {
-                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/7f6d646bf89a7aab8df541db93e5c248/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/twitter-core-3.0.0.aar/fe2de7dd0d9b17e0857608902f3db5f9/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
